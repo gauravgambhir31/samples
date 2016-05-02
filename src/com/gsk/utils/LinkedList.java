@@ -1,6 +1,4 @@
-package com.gsk;
-
-import com.gsk.utils.Node;
+package com.gsk.utils;
 
 
 public class LinkedList<T> {
